@@ -1,0 +1,6 @@
+{
+  "name": "AuChou: CadêMeuPet?",
+  "description": "Localizador de animais perdidos e rede colaborativa para reencontro de pets com mapa, mensagens e upload de fotos do dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
